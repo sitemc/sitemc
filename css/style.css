@@ -24,6 +24,10 @@ background: #999;
   .text-contact {
     text-align: center;
   }
+  .owl-carousel .owl-item img {
+    width: auto;
+    height: 270px;    
+  }
 }
 
 .text-contact p {
