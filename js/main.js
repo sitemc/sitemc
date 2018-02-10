@@ -1,4 +1,4 @@
-$('.owl-carousel').owlCarousel({
+$('#slider').owlCarousel({
   autoplay: true,
   dots: false, 
   items: 1, 
@@ -26,7 +26,4 @@ $('.owl-carousel').owlCarousel({
     }
   }
 });
-
-
-
 
